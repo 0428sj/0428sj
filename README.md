@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sejin%20PARK&fontSize=70&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEJIN%20PARK&fontSize=70&animation=fadeIn&fontAlignY=38)
 
-# Sejin PARK
+# SEJIN PARK
 ### 🏢 Researcher 
 ###    Solution Development Dept. @ ION Co., Ltd.
 ### 🎓 B.S. in Mechanical & Aerospace Engineering, Cheongju Univ.
