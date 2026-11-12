@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sejin%20Park&fontSize=70&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sejin%20PARK&fontSize=70&animation=fadeIn&fontAlignY=38)
 
-# Sejin Park
+# Sejin PARK
 ### 🏢 Researcher 
 ###    Solution Development Dept. @ ION Co., Ltd.
 ### 🎓 B.S. in Mechanical & Aerospace Engineering, Cheongju Univ.
@@ -24,5 +24,14 @@
 <img src="https://img.shields.io/badge/MAVLink %2F MAVROS-6A5ACD?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/PyQt GCS-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+
+</div>
+
+---
+
+### 📬 Contact Me
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-suhoejin78%40ion--solution.co.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhoejin78@ion-solution.co.kr)
 
 </div>
